@@ -90,3 +90,9 @@ h2 {
 .italic {
     font-style: italic;
 }
+
+/* Text Styles Section */
+.text-style {
+    text-align: left;
+    margin-bottom: 0;
+}
