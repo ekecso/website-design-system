@@ -17,6 +17,33 @@ h2 {
     text-align: center;
 }
 
+/* Color Section */
+#black {
+    background-color: #000000;
+    color: white;
+}
+
+#gray {
+    background-color: #BEBEBE;
+}
+
+#light-gray {
+    background-color: #D3D3D3;
+}
+
+#dark-purple {
+    background-color: #301934;
+    color: white;
+}
+
+#mid-purple {
+    background-color: #7A658B;
+}
+
+#pastel-purple {
+    background-color: #C3B1E1;
+}
+
 /* Font Section */
 .font-container {
     display: flex;
