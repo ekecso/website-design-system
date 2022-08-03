@@ -1,6 +1,7 @@
 html {
     font-size: 16px;
     font-family: 'Lato', sans-serif;
+    background-color: #C3B1E1;
 }
 
 h1 {
@@ -15,6 +16,14 @@ h2 {
     font-size: 2rem;
     font-weight: 700;
     text-align: center;
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    padding: 1.5rem;
+    padding-bottom: 3rem;
+    margin: 1.5rem;
 }
 
 /* Color Section */
